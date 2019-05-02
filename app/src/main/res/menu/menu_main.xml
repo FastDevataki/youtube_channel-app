@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.user.lbem.MainActivity">
+    <item
+        android:id="@+id/action_open"
+        android:icon="@drawable/ic_center_focus_weak_black_24dp"
+        android:title="Open YouTube App"
+        app:showAsAction="always" />
+</menu>
